@@ -1,2 +1,1 @@
-adc
-efg
+Changed master file in branch2 after rebasing
